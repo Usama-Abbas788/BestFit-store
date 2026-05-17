@@ -1,0 +1,38 @@
+[
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-elementor-hf-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-page-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-post-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-product-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/post-type-sureforms_form-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/taxonomy-type-product_brand-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    },
+    {
+        "link": "https:\/\/localhost\/mystore\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2026-04-21T15:53:45+00:00"
+    }
+]

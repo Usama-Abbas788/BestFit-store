@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/OpenSans-Normal",
+        "bold": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/OpenSans-Bold",
+        "italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/OpenSans-Italic",
+        "bold_italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/Segoe-Normal",
+        "bold": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/Segoe-Bold",
+        "italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/Segoe-Italic",
+        "bold_italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/RobotoSlab-Normal",
+        "bold": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/RobotoSlab-Bold",
+        "italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/currencies",
+        "bold": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/currencies",
+        "italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/currencies",
+        "bold_italic": "D:\/Xampp 1.0\/htdocs\/mystore\/wp-content\/uploads\/wpo_wcpdf_03894ed29a5c1b792dbcc3a096406110\/fonts\/currencies"
+    }
+}
